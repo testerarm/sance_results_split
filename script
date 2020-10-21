@@ -1,0 +1,2 @@
+ ./run.sh --split 79 --split-overlap 10 --project-path ./datasets odm_sance --orthophoto-resolution=30 --rerun-all --sm-cluster http://192.168.1.55:3000 --use_3dmesh
+
